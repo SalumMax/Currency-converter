@@ -1,6 +1,6 @@
 const currencyEl_one = document.querySelector('#currency-one');
 const currencyEl_two = document.querySelector('#currency-two');
-const swap = document.querySelector('#swap');
+const swap = document.querySelector('#swap-icon');
 const amountOne = document.querySelector('#amount-one');
 const amountTwo = document.querySelector('#amount-two');
 const rateEl = document.querySelector('#rate');
